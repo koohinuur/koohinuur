@@ -44,8 +44,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k00h1nur&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k00h1nur&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koohinuur&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koohinuur&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 
@@ -53,7 +53,7 @@
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k00h1nur&theme=onedark&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koohinuur&theme=onedark&no-bg=true&margin-w=15" />
 </p>
 
 
