@@ -1,108 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Sevinch%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20C%23%20%E2%80%A2%20Angular%20%E2%80%A2%20MAUI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=SEVINCH%20XAYRIDDINOVA&fontSize=38&fontColor=D4AF37&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Building%20with%20C%23%2C%20Angular%20%26%20MAUI&descAlignY=60&descSize=16&descColor=E8E8E8" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=koohinuur&label=Profile%20Views&color=6a5cff&style=for-the-badge" alt="Profile views" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Database+Architecture+Enthusiast;C%23+%7C+Angular+%7C+.NET+MAUI+Developer;Always+learning%2C+always+building." alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=koohinuur&label=PROFILE%20VIEWS&color=D4AF37&style=for-the-badge&labelColor=0f0c29" />
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🌱 Currently learning **C#, Angular, MAUI**
-- 💬 Ask me about **C#, C, C++, Python**
-- 📫 Reach me at **xayiddinovasevinch@gmail.com**
-- 👨‍💻 All my projects are available at **[GitHub Profile](https://github.com/koohinuur)**
-- ⚡ Fun fact: **my hobby is designing database architectures** 🗄️
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```
+const sevinch = {
+  role: "Software Developer",
+  learning: ["C#", "Angular", "MAUI"],
+  askMeAbout: ["C#", "C", "C++", "Python"],
+  funFact: "I enjoy designing database architectures",
+  email: "xayiddinovasevinch@gmail.com"
+};
+```
+
+</td>
+<td width="40%" valign="top">
+
+- 🌱 Currently mastering **C#, Angular & MAUI**
+- 💬 Deep dive into **C#, C, C++, Python**
+- 📫 Reach me at the email above
+- 👨‍💻 Explore all my work on **[GitHub](https://github.com/koohinuur)**
+- ⚡ Fun fact — **database design is my hobby**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/sevinch-xayriddinova-b324b0267/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/k00h1nur/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode" />
 </a>
 <a href="https://instagram.com/k00h1nur" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram" />
 </a>
 <a href="https://t.me/k00h1nur" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=D4AF37" alt="Telegram" />
 </a>
 <a href="mailto:xayiddinovasevinch@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
 </a>
 
 </div>
 
 <br/>
 
-## 🛠 Languages & Tools
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,dotnet,angular,mysql,postgres,sqlite,docker&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,dotnet,angular,mysql,postgres,sqlite,docker,git,vscode&theme=dark" height="55"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📊 Snapshot
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/koohinuur/koohinuur/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> ⚙️ Bu animatsiya avtomatik ishlashi uchun repo'ingizga bitta GitHub Action qo'shish kerak — quyida ko'rsatmasi bor.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=koohinuur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koohinuur&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://img.shields.io/github/followers/koohinuur?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/koohinuur/repos?per_page=100&label=PUBLIC%20REPOS&query=$.length&style=for-the-badge&color=D4AF37&labelColor=0f0c29" />
+<img src="https://img.shields.io/github/stars/koohinuur?label=STARS&style=for-the-badge&color=D4AF37&labelColor=0f0c29" />
 
 </div>
 
 <br/>
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koohinuur&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-## 🎖 Minimalist Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/koohinuur?label=Followers&style=for-the-badge&color=6a5cff" />
-<img src="https://img.shields.io/github/stars/koohinuur?label=Stars&style=for-the-badge&color=6a5cff" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/koohinuur/repos&label=Public%20Repos&query=$.length&style=for-the-badge&color=6a5cff" />
-
-</div>
-
-<br/>
-
-## 📄 Resume Preview
+## 📄 Resume
 
 <div align="center">
 
 <a href="https://github.com/koohinuur/koohinuur/blob/main/Resume.png" target="_blank">
-  <img src="https://github.com/koohinuur/koohinuur/blob/main/Resume.png" width="600px" style="border-radius: 12px;" />
+  <img src="https://github.com/koohinuur/koohinuur/blob/main/Resume.png" width="600px" style="border-radius: 12px; border: 2px solid #D4AF37;" />
 </a>
 
 </div>
@@ -111,9 +105,9 @@
 
 <div align="center">
 
-### 📩 Let's Connect!
-Feel free to reach out for collaborations, discussions, or just to say hi 👋
+### 📩 Let's build something together
+Open to collaborations, discussions, and interesting problems.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
